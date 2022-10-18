@@ -1,3 +1,5 @@
+Модуль bpfki использует службу внедрения ядра на основе BPF для реализации модулей для поведения Chaos, характерного для KernelChaos.
+
 # bpfki
 
 A BPF-based kernel fault injection service.
